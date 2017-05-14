@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>  
+<title>amufwa ndalo</title>
+  <meta name="description" content="Learning about Meta Tags." />
+   <meta name="author" content="Amufwa  Ndalo" />
+    <link href='style.css' media='screen' rel='stylesheet' type='text/css' />
+
+    <style>
+    body{
+      background: black;
+    }
+    p{
+      color:white;
+      font-size:20px;
+
+    }
+    .white-title{
+      color:white;
+       font-size: 5em;
+        text-align: center;
+    }
+    .container{
+         float: left;
+        margin: 15px;
+       padding: 25px;
+      max-width: 450px;
+     height: 300px;
+     text-align: left;
+    }
+    .intro{
+      text-align: center;
+    }
+    .row{
+      width:450px;
+      height:500px;
+      float:right;
+      padding-right: 5em;
+      border:2px solid black;
+      border-radius: 10%;
+      
+    }
+
+    }
+    </style>
+  </head>
+  <body>
+  <h1 class="white-title">Who is "amufwa"?</h1>
+<p class="intro">Designer and developer in Kenya, focusing all his efforts on creating useful software products. One day he hopes to make something that impresses his Mum.</p>
+ <img class="row thi-red-border" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRK9C1gEBjyABExvHdFYuj8S-RG0iFaDYoxvbv6JEOGfT99cY-FcA"alt="##">
+    <div class='container'>
+      <p>I now live in Nairobi.</p>
+      <p>I read science fiction books and maintain a pretty big collection.</p>
+      <p>I watch a lot animations<a href = "http://www.kissanime.com" target="_blank">online anime</a>.</p>
+      <p>I enjoy coding and programming <a href="https://github.com/amufwandalocollins">Github</a> if you're into that sort of thing.</p>
+      <p>I sometimes write <a href = "https://web.facebook.com/collins.ndalo.988">longer idiotic comments about the things i see</a> too.</p>
+      <p>I was the head chef of Sam Nice bakers</p>
+      <p>I am not anymore, but they're still cool.</p>
+      <p>I am a self taught online student <a href="https://www.freecodecamp.com">Free code camp</a></p>
+      <p>Also am am an online student at <a href="https://www.codeacademy.com">Code Academy</a></p>
+      
+    </div>
+    
+  </body>
+</html>
+
+
+
+</body>
+</html>
